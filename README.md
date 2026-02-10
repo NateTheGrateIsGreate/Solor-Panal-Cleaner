@@ -3,10 +3,10 @@ This is a project where we create a solar panel Cleaner to keep a solor Panel cl
 
 Job Titles-
 
-Project Manager       - Maison Bush
+Project Manager       - Maison 
 
-Github/Doc Maager     - Nathan Carn
+Github/Doc Maager     - Nathan 
 
-Material and Supplies - Gavin Carnival
+Material and Supplies - Gavin 
 
 
